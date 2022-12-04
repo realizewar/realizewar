@@ -1,4 +1,4 @@
-✧ Hi, I’m @realizewar!
+<p>✧ Hi, I’m @realizewar! </p>
 ✧ I’m interested in visual programming using C# and Python.
 ✧ I’m currently learning data analysis/mining and machine learning.
 ✧ I’m looking to collaborate on data analysis.
