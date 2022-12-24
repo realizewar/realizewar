@@ -6,5 +6,5 @@
 
 
 ![<rea>](https://img.shields.io/badge/<REA>-<black>?style=for-the-badge&logo=<rea>&logoColor=<red>)
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=red)](https://www.linkedin.com/in/emre-can-ya%C5%9Far-3a9a36229/)
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=red)](realizewar.com)
 
