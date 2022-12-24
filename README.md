@@ -4,7 +4,5 @@
 <br> ✧ I’m looking to collaborate on data analysis.                      </br>
 <br> ✧ How to reach me 👇                                                </br>
 
-
-![<rea>](https://img.shields.io/badge/<REA>-<black>?style=for-the-badge&logo=<rea>&logoColor=<red>)
-[![realizewar]]([www.realizewar.com](https://realizewar.com/])
+realizewar.com
 
