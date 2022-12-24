@@ -6,5 +6,5 @@
 
 
 ![<rea>](https://img.shields.io/badge/<REA>-<black>?style=for-the-badge&logo=<rea>&logoColor=<red>)
-[![realizewar](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=red)](www.realizewar.com)
+[![realizewar](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=red)]([www.realizewar.com](https://realizewar.com/))
 
