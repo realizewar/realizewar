@@ -4,5 +4,5 @@
 <br> ✧ I’m looking to collaborate on data analysis.                      </br>
 <br> ✧ How to reach me 👇                                                </br>
 
-realizewar.com
+<a href ="https://realizewar.com/" title = "realizewar">
 
